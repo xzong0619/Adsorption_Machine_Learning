@@ -7,7 +7,7 @@ The developed ML model can rapidly screen potential catalyst materials, unify ad
 - Xue Zong (xzong@udel.edu)
 
 ## Dataset
-The dataset includes binding energies of small adsorbates on various platinum surfaces calculated from density function theory (DFT) in ML_Data.csv
+The dataset includes binding energies of small adsorbates on various platinum surfaces calculated from density function theory (DFT) in Dataset.csv
 - 16 types of adsorbates
 - 12 types of Pt surfaces
 - 295 data points

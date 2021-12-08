@@ -11,3 +11,24 @@ The dataset includes binding energies of small adsorbates on various platinum su
 - 16 types of adsorbates
 - 12 types of Pt surfaces
 - 295 data points
+
+![platinum_surfaces](images/Pt_surfaces.png)
+
+## Machine Learning Models Explored:
+- Ordinary Least Square (OLS) regression
+- Kernel Ridge Regression (KRR)
+- Support Vector Regression (SVR)
+- Extra Tree Regression (ETR)
+- Random Forest Regression (RFR)
+- Extreme Gradient Boosting regression (XGBoost)
+
+## Dependencies
+- [Numpy](https://numpy.org/): Used for vector and matrix operations
+- [Matplotlib](https://matplotlib.org/): Used for plotting
+- [Scipy](https://www.scipy.org/): Used for linear algebra calculations
+- [Pandas](https://pandas.pydata.org/): Used to import data from Excel files
+- [Sklearn](https://scikit-learn.org/stable/): Used for training machine learning models
+- [Seaborn](https://seaborn.pydata.org/): Used for plotting
+
+## Related Publication
+__Zong, X.__; Vlachos, D. G. Unified Scaling Relations for Predicting Small Adsorbates Adsorption on Platinum Surfaces (2021). (Submitted)

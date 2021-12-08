@@ -12,8 +12,6 @@ The dataset includes binding energies of small adsorbates on various platinum su
 - 12 types of Pt surfaces
 - 295 data points
 
-![platinum_surfaces](images/Pt_surfaces.png)
-
 ## Machine Learning Models Explored:
 - Ordinary Least Square (OLS) regression
 - Kernel Ridge Regression (KRR)

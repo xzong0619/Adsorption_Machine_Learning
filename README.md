@@ -29,4 +29,4 @@ The dataset includes binding energies of small adsorbates on various platinum su
 - [Seaborn](https://seaborn.pydata.org/): Used for plotting
 
 ## Related Publication
-__Zong, X.__; Vlachos, D. G. Unified Scaling Relations for Predicting Small Adsorbates Adsorption on Platinum Surfaces (2021). (Submitted)
+__Zong, X.__; Vlachos, D. G. Learning structure-sensitive scaling relations for small species adsorption on platinum surfaces (2022). (Submitted)
